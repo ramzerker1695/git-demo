@@ -6,4 +6,3 @@ This is the first file in this repo.
 
 This is a sample text 
 
-Adding few more lines 
